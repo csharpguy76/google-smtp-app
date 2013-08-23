@@ -1,0 +1,1 @@
+C:\dev\google-smtp-app\google-smtp-app\bin\Debug\google-smtp-app.exe.config
